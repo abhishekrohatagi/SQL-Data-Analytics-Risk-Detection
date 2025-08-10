@@ -1,0 +1,101 @@
+ClientID,ClientName,Country,Segment,RiskCategory
+C001,Client_1,India,Private Bank,Medium
+C002,Client_2,Singapore,Institutional,Medium
+C003,Client_3,Germany,Hedge Fund,High
+C004,Client_4,Singapore,Institutional,High
+C005,Client_5,Singapore,Private Bank,Low
+C006,Client_6,UK,Private Bank,High
+C007,Client_7,Germany,Hedge Fund,High
+C008,Client_8,Germany,Institutional,Medium
+C009,Client_9,Germany,Private Bank,Low
+C010,Client_10,Singapore,Hedge Fund,High
+C011,Client_11,India,Private Bank,Medium
+C012,Client_12,Germany,Private Bank,Medium
+C013,Client_13,Singapore,Institutional,High
+C014,Client_14,UK,Private Bank,Medium
+C015,Client_15,India,Institutional,Medium
+C016,Client_16,UK,Private Bank,Medium
+C017,Client_17,India,Hedge Fund,Medium
+C018,Client_18,Singapore,Private Bank,Medium
+C019,Client_19,USA,Institutional,High
+C020,Client_20,India,Institutional,Low
+C021,Client_21,UK,Hedge Fund,Medium
+C022,Client_22,Singapore,Private Bank,High
+C023,Client_23,India,Private Bank,High
+C024,Client_24,USA,Hedge Fund,Medium
+C025,Client_25,USA,Private Bank,Medium
+C026,Client_26,Germany,Private Bank,High
+C027,Client_27,Germany,Institutional,Medium
+C028,Client_28,UK,Private Bank,High
+C029,Client_29,India,Private Bank,Medium
+C030,Client_30,India,Hedge Fund,High
+C031,Client_31,Germany,Hedge Fund,Medium
+C032,Client_32,India,Institutional,Medium
+C033,Client_33,India,Private Bank,Low
+C034,Client_34,USA,Private Bank,High
+C035,Client_35,Germany,Private Bank,Medium
+C036,Client_36,Singapore,Institutional,High
+C037,Client_37,Germany,Institutional,Low
+C038,Client_38,Singapore,Hedge Fund,Low
+C039,Client_39,USA,Institutional,High
+C040,Client_40,UK,Private Bank,Medium
+C041,Client_41,India,Private Bank,Low
+C042,Client_42,USA,Institutional,Medium
+C043,Client_43,India,Private Bank,Medium
+C044,Client_44,UK,Private Bank,High
+C045,Client_45,UK,Institutional,High
+C046,Client_46,USA,Institutional,Low
+C047,Client_47,UK,Private Bank,Low
+C048,Client_48,Singapore,Private Bank,Medium
+C049,Client_49,UK,Private Bank,Medium
+C050,Client_50,India,Hedge Fund,Medium
+C051,Client_51,India,Hedge Fund,Medium
+C052,Client_52,India,Hedge Fund,Low
+C053,Client_53,India,Institutional,Low
+C054,Client_54,Singapore,Hedge Fund,Medium
+C055,Client_55,Germany,Institutional,Medium
+C056,Client_56,USA,Institutional,High
+C057,Client_57,India,Hedge Fund,High
+C058,Client_58,UK,Hedge Fund,Low
+C059,Client_59,India,Hedge Fund,Medium
+C060,Client_60,UK,Private Bank,High
+C061,Client_61,UK,Hedge Fund,High
+C062,Client_62,India,Private Bank,Medium
+C063,Client_63,Singapore,Institutional,High
+C064,Client_64,UK,Private Bank,High
+C065,Client_65,UK,Hedge Fund,Medium
+C066,Client_66,India,Institutional,Medium
+C067,Client_67,UK,Institutional,Medium
+C068,Client_68,UK,Institutional,High
+C069,Client_69,India,Private Bank,Medium
+C070,Client_70,India,Hedge Fund,High
+C071,Client_71,USA,Institutional,Medium
+C072,Client_72,Singapore,Institutional,Medium
+C073,Client_73,Singapore,Institutional,Medium
+C074,Client_74,UK,Private Bank,Low
+C075,Client_75,Singapore,Private Bank,Medium
+C076,Client_76,UK,Hedge Fund,Medium
+C077,Client_77,USA,Private Bank,High
+C078,Client_78,India,Institutional,Medium
+C079,Client_79,India,Hedge Fund,High
+C080,Client_80,India,Institutional,High
+C081,Client_81,Singapore,Institutional,Low
+C082,Client_82,USA,Private Bank,Medium
+C083,Client_83,Singapore,Hedge Fund,Low
+C084,Client_84,Singapore,Private Bank,Medium
+C085,Client_85,USA,Private Bank,Medium
+C086,Client_86,USA,Hedge Fund,Medium
+C087,Client_87,USA,Institutional,Medium
+C088,Client_88,USA,Institutional,Medium
+C089,Client_89,India,Hedge Fund,High
+C090,Client_90,Germany,Institutional,Medium
+C091,Client_91,Germany,Hedge Fund,High
+C092,Client_92,USA,Hedge Fund,High
+C093,Client_93,Germany,Private Bank,Medium
+C094,Client_94,Germany,Hedge Fund,High
+C095,Client_95,USA,Private Bank,Low
+C096,Client_96,Germany,Institutional,Low
+C097,Client_97,Singapore,Institutional,Low
+C098,Client_98,UK,Institutional,Medium
+C099,Client_99,UK,Institutional,High
+C100,Client_100,USA,Private Bank,Low
